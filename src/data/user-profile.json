@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin",
+    "foto": "../../public/img/user-default-profile.svg"
+  }
+}
